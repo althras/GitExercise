@@ -6,3 +6,5 @@ Then he checked Instagram.
 He goes to class.
 The lecturer was very boring.
 He was confused with git.
+
+He became a git master in no time.
